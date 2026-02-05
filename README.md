@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻 Front-End Developer in progress<br><br>🎓 Studying Web Development: HTML, CSS, SASS, JavaScript<br><br>⚛️ React, Bootstrap & Tailwind<br><br>🛠️ Familiar with Git, GitHub & Responsive Design<br><br>🚀 Passionate about learning<br><br>🎸 Music, MTB & Tattoos lover<br><br>🌱 Focused on building clean and modern websites</p>
+<p align="left">💻 Front-End Developer<br><br>🎓 Web Development: HTML, CSS, SASS, JavaScript<br><br>⚛️ React, Bootstrap & Tailwind<br><br>🛠️ Familiar with Git, GitHub & Responsive Design<br><br>🚀 Passionate about learning<br><br>🎸 Music, MTB & Tattoos lover<br><br>🌱 Focused on building clean and modern websites</p>
 
 ###
 
