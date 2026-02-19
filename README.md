@@ -52,6 +52,5 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipedev90&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedev90&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=felipedev90&theme=tokyonight&hide_border=true&locale=pt_BR" height="150" alt="streak stats" />
 </div>
