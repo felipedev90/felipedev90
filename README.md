@@ -18,7 +18,7 @@
 <p align="left">
   💻 Front-End Developer<br><br>
   🎓 Web Development: HTML, CSS, SASS, JavaScript, TypeScript<br><br>
-  ⚛️ React, Bootstrap & Tailwind<br><br>
+  ⚛️ React, Next.js, Bootstrap & Tailwind<br><br>
   🛠️ Familiar with Git, GitHub & Responsive Design<br><br>
   🚀 Passionate about learning<br><br>
   🎸 Music, MTB & Tattoos lover<br><br>
@@ -43,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
