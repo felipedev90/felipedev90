@@ -11,18 +11,20 @@
   <a href="mailto:augusto.felipedev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo" />
   </a>
+  <a href="https://felipe-silva90-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=flat" height="40" alt="portfolio" />
+  </a>
 </div>
 
 ###
 
 <p align="left">
-  💻 Front-End Developer<br><br>
-  🎓 Web Development: HTML, CSS, SASS, JavaScript, TypeScript<br><br>
-  ⚛️ React, Next.js, Bootstrap & Tailwind<br><br>
-  🛠️ Familiar with Git, GitHub & Responsive Design<br><br>
-  🚀 Passionate about learning<br><br>
-  🎸 Music, MTB & Tattoos lover<br><br>
-  🌱 Focused on building clean and modern websites
+  💻 Full Stack Developer (React / Next.js / Node.js)<br><br>
+  ⚛️ Frontend: React, Next.js 15, TypeScript, Tailwind CSS, SASS<br><br>
+  🛠️ Backend: Node.js, Fastify, PostgreSQL, Prisma, JWT, Zod<br><br>
+  🧪 Testes: Vitest, Testing Library, Playwright<br><br>
+  🚀 CI/CD com GitHub Actions · GitFlow · Deploy na Vercel & Railway<br><br>
+  🎸 Music, MTB & Tattoos lover
 </p>
 
 ###
@@ -36,8 +38,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
@@ -46,8 +46,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
 ###
