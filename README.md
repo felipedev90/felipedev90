@@ -19,11 +19,11 @@
 ###
 
 <p align="left">
-  💻 Full Stack Developer (React / Next.js / Node.js)<br><br>
+  💻 Junior Full Stack Developer (React / Next.js / Node.js)<br><br>
   ⚛️ Frontend: React, Next.js 15, TypeScript, Tailwind CSS, SASS<br><br>
   🛠️ Backend: Node.js, Fastify, PostgreSQL, Prisma, JWT, Zod<br><br>
-  🧪 Testes: Vitest, Testing Library, Playwright<br><br>
-  🚀 CI/CD com GitHub Actions · GitFlow · Deploy na Vercel & Railway<br><br>
+  🧪 Tests: Vitest, Testing Library, Playwright<br><br>
+  🚀 CI/CD GitHub Actions · GitFlow · Vercel & Railway<br><br>
   🎸 Music, MTB & Tattoos lover
 </p>
 
