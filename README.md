@@ -58,7 +58,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedev90&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="top languages" />
-</div>
