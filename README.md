@@ -108,7 +108,6 @@ Landing page for an artisanal confectionery (real freelance client). Full menu, 
 
 <div align="center">
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipedev90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipedev90&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
