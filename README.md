@@ -105,11 +105,12 @@ Landing page for an artisanal confectionery (real freelance client). Full menu, 
 ---
 
 </div>
-
----
-
 <div align="center">
 
 💬 Let's build something great together — reach out anytime.
 
 </div>
+
+---
+
+
