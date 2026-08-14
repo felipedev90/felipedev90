@@ -17,11 +17,11 @@
 
 Fullstack developer focused on building **fast, accessible, and scalable** web applications with **React, Next.js, and TypeScript**.
 
-I work across the stack — from componentized frontends using SSR/SSG/ISR and the App Router, to authenticated REST APIs in **Node.js** (Express / Fastify) with **PostgreSQL/Prisma** and **MongoDB**. I care about clean architecture, automated testing, performance, and shipping real products to production.
+I work across the stack, from componentized frontends using SSR/SSG/ISR and the App Router, to authenticated REST APIs in **Node.js** (Express / Fastify) with **PostgreSQL/Prisma** and **MongoDB**. I care about clean architecture, automated testing, performance, and shipping real products to production.
 
-- 💼 **Frontend Developer @ Lacrei Saúde** — React/TypeScript refactors against a custom design system, form validation, bug fixing in registration/profile flows, and PR reviews.
+- 💼 **Frontend Developer @ Lacrei Saúde**: React/TypeScript refactors against a custom design system, form validation, bug fixing in registration/profile flows, and PR reviews.
 - 🌱 Continuously deepening my **backend & fullstack** skills with production-grade APIs.
-- 📍 Based in **Jundiaí, SP — Brazil** · 🗣️ **English B2/C1** · open to remote & relocation.
+- 📍 Based in **Jundiaí, SP/Brazil** · 🗣️ **English B2/C1** · **German A1** · Open to remote & relocation.
 - 🌐 Portfolio: **[devfelipeaugusto.com.br](https://devfelipeaugusto.com.br)**
 
 ---
@@ -74,40 +74,10 @@ I work across the stack — from componentized frontends using SSR/SSG/ISR and t
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 DevStore — Fullstack E-commerce
-Complete e-commerce showcasing Next.js rendering strategies (SSG, SSR, ISR), a custom design system, global state with Zustand, JWT auth, automated tests and a CI/CD pipeline.
-`Next.js` · `TypeScript` · `TailwindCSS` · `Zustand` · `Vitest` · `GitHub Actions` · `Vercel`
-<!-- Replace # with your live and repo URLs -->
-[🔗 Live](#) · [`</>` Code](#)
-
-### ⚙️ DevStore API — REST API
-E-commerce REST API with JWT authentication, Zod validation, and PostgreSQL persistence via Prisma (migrations + automated seed). Deployed on Render with a serverless Neon database.
-`Node.js` · `Fastify` · `PostgreSQL` · `Prisma` · `Zod` · `JWT` · `Neon` · `Render`
-[`</>` Code](#)
-
-### 🎨 Brunelli Irezumi — Client Project
-Institutional site for a Japanese tattoo studio (real freelance client). Full SEO with Metadata, Open Graph and JSON-LD Schema (TattooParlor), optimized `next/font` and `next/image`. **Lighthouse 97/100/100/100.**
-`Next.js` · `TypeScript` · `TailwindCSS` · `Vitest` · `GitHub Actions` · `Vercel`
-[🔗 Live](#) · [`</>` Code](#)
-
-### 🚲 Cidade Viva API — REST API
-REST API for a blog about urban culture, cycling and lifestyle in Jundiaí. JWT authentication, Zod validation and Mongoose modeling, deployed on Render.
-`Node.js` · `Express` · `TypeScript` · `MongoDB` · `Zod` · `JWT` · `Render`
-[`</>` Code](#)
-
-### 🍰 Selma Bolos — Client Project
-Landing page for an artisanal confectionery (real freelance client). Full menu, interactive price calculator and WhatsApp ordering integration. **Lighthouse 95/100/100/100.**
-`Next.js` · `TypeScript` · `TailwindCSS` · `Vitest` · `GitHub Actions` · `Vercel`
-[🔗 Live](#) · [`</>` Code](#)
-
----
-
 </div>
 <div align="center">
 
-💬 Let's build something great together — reach out anytime.
+💬 Let's build something great together, reach out anytime.
 
 </div>
 
